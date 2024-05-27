@@ -19,7 +19,8 @@ Este proyecto utiliza las siguientes dependencias:
   -ViewModel
 
 ## Capturas de pantalla
-Aquí puedes incluir algunas capturas de pantalla de la aplicación en funcionamiento.
+![image](https://github.com/ADRIELCELSOROSALES/ConsumirAPIconRetrofit2/assets/110257731/4a40daa6-5a7f-40a4-abfa-1651d1173223)
+
 
 
 ## Contribuir
